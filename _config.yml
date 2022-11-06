@@ -1,0 +1,11 @@
+remote_theme: konstantin-morenko/just-the-docs
+
+title: (Бес)Смертная
+description: Мистический роман
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+
+ycnumber: 69954367
+mathjax: false
