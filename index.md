@@ -20,3 +20,6 @@ permalink: /
 Купить электронную книгу:
 - [Ridero](https://ridero.ru/books/bes_smertnaya/)
 - [ЛитРес](https://www.litres.ru/maks-knopka/bes-smertnaya-misticheskiy-eroticheskiy-roman/)
+
+Скачать электронную книгу:
+- [EPUB](pub/morenko-k-immortal.epub)
