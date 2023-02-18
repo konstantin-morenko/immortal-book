@@ -8,6 +8,8 @@ permalink: /
 
 Константин Моренко
 
+<img style="display: block; margin: 0 auto; max-width: 500px; max-height: 80vh" src="cover/cover.svg.png">
+
 Парень, писатель по профессии, «случайно» знакомится с девушкой. С
 самого начала знакомства она кажется ему странной загадкой,
 мистическим воплощением сверхъестественной сущности. Постепенно между
@@ -17,4 +19,4 @@ permalink: /
 
 Купить электронную книгу:
 - [Ridero](https://ridero.ru/books/bes_smertnaya/)
-- [ЛитРес](http://www.litres.ru/maks-knopka/bes-smertnaya-misticheskiy-eroticheskiy-roman/)
+- [ЛитРес](https://www.litres.ru/maks-knopka/bes-smertnaya-misticheskiy-eroticheskiy-roman/)
