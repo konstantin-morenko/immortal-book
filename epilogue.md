@@ -1,6 +1,6 @@
 ---
 title: Эпилог
-nav_order: 9
+nav_order: 10
 ---
 
 # Эпилог
@@ -58,3 +58,8 @@ nav_order: 9
 белом махровом халате.
 
 
+---
+
+Если вам понравилась книга, купите ее в любом Интернет-магазине, например:
+- [Ridero](https://ridero.ru/books/bes_smertnaya/)
+- [ЛитРес](https://www.litres.ru/maks-knopka/bes-smertnaya-misticheskiy-eroticheskiy-roman/)

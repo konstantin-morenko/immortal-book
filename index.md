@@ -23,3 +23,5 @@ permalink: /
 
 Скачать электронную книгу:
 - [EPUB](pub/morenko-k-immortal.epub)
+
+<a href="{{ site.baseurl }}{% link prologue.md %}">Читать онлайн</a>
